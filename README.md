@@ -3,6 +3,14 @@
 ## Overview
 This project explores the application of machine learning techniques to predict the compressive strength of high-performance concrete. The compressive strength is a crucial property that impacts the structural capabilities of concrete in construction. The project leverages various regression models to predict this strength based on the concrete mixture's composition and age.
 
+### R2 and RSE Score for the Models Compared
+* Lasso - Residual Standard Rrror (RSE): 9.541807510700313
+* Lasso - R2 score: 0.5952917560883537
+* Ridge - Residual Standard Error [RSE]: 9.5414
+* Ridge - R2 statistic: 0.5953
+* Simple Linear - Residual Standard Error [RSE]: 10.3412
+* Simple Linear - R2 statistic: 0.6202
+
 ## Technical Explanation
 
 ### Linear Regression Model
